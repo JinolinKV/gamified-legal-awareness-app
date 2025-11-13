@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/gamified-legal-awareness-app/static/css/main.d7b98b2e.css",
+    "main.js": "/gamified-legal-awareness-app/static/js/main.a81e94fa.js",
+    "index.html": "/gamified-legal-awareness-app/index.html",
+    "main.d7b98b2e.css.map": "/gamified-legal-awareness-app/static/css/main.d7b98b2e.css.map",
+    "main.a81e94fa.js.map": "/gamified-legal-awareness-app/static/js/main.a81e94fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7b98b2e.css",
+    "static/js/main.a81e94fa.js"
+  ]
+}
